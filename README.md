@@ -22,6 +22,6 @@ Approach:
 
 Contributors:
 
-Ashita Ahuja
-vineet Prakash
+1. Ashita Ahuja
+2. Vineet Prakash
 
